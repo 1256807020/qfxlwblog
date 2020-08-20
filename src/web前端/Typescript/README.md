@@ -1,0 +1,1 @@
+## 目录官方文档：[TypeScript中文网](https://www.tslang.cn/)[一、搭建环境、基础类型](ts-01%20搭建环境、基础类型.md)[二、接口、函数](ts-02%20接口、函数.md)[三、泛型、类](ts-03%20泛型、类.md)[四、枚举、类型推论](ts-04%20枚举、类型推论.md)[五、高级类型](ts-05%20高级类型.md)[六、装饰器、Mixins](ts-07%20装饰器、Mixins.md)[七、声明文件](ts-08%20声明文件.md)[八、ts实战例子](ts实战例子.md)[九、typescript&vue](typescript&vue.md)<Vssue title="Typescript" />

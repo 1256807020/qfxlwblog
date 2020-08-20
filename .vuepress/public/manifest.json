@@ -1,0 +1,39 @@
+{
+  "name": "qfxlwblog",
+  "short_name": "qfxlwblog",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "This is a note from a web front end engineer",
+  "icons": [{
+    "src": "https://www.qfxlw.com/upload/thumbs/1549547773427.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://www.qfxlw.com/upload/thumbs/1549547773427.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://www.qfxlw.com/upload/thumbs/1549547773427.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://www.qfxlw.com/upload/thumbs/1549547773427.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://www.qfxlw.com/upload/thumbs/1549547773427.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://www.qfxlw.com/upload/thumbs/1549547773427.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }],
+  "related_applications": [{
+    "platform": "web"
+  }, {
+    "platform": "play",
+    "url": "https://www.qfxlw.com/"
+  }]
+}
